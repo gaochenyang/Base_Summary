@@ -12,3 +12,6 @@ http://f2er.club/
 ##伯乐在线
 
 https://github.com/jobbole
+
+## js拼接
+'<img src="' + "images/demo.png" + '"/>'
