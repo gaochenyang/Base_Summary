@@ -17,5 +17,8 @@ https://github.com/jobbole
 
 http://code.ciaoca.com/
 
+##后台管理系统框架
+http://www.h-ui.net/H-ui.admin.shtml
+
 ## js拼接
 '<img src="' + "images/demo.png" + '"/>'
