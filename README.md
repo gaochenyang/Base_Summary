@@ -1,6 +1,9 @@
 # 前端技术栈
 http://devdocs.io/
 
+# jQuery API中文文档
+http://www.css88.com/jqapi-1.9/
+
 # 不错的前端资源网站
 http://jsrun.net
 
