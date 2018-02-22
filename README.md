@@ -32,7 +32,8 @@ http://www.h-ui.net/H-ui.admin.shtml
  var arry_temp =[
 		 {name:'a',value:2},
 		 {name:'a',value:2},
-		 {name:'a',value:2}]
+		 {name:'a',value:2}
+		 ]
 		    var temp = {};var data=[];
 			for(var i in arry_temp) {
 				var lnglat = arry_temp[i].name;
