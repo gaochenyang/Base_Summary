@@ -56,3 +56,9 @@ http://www.h-ui.net/H-ui.admin.shtml
 				
 			}
 			console.log(temp)
+			
+# 对象中追加
+
+var store ={};
+
+store[aa] ='123';
