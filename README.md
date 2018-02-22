@@ -27,12 +27,14 @@ http://www.h-ui.net/H-ui.admin.shtml
 # js拼接
 '<img src="' + "images/demo.png" + '"/>'
 
-#相同的key,value加和
+# 相同的key,value加和
+
 
 
  var arry_temp =
- 		[
  
+ 		[
+		
 		 {name:'a',value:2},
 		 
 		 {name:'a',value:2},
