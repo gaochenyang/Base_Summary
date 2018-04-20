@@ -71,9 +71,9 @@ store[aa] ='123';
         newArr.push(arr[i]);
       }
     }
-
+`
  //在数组中查找是否有这个对象
-   function find(arr,object){
+ `  function find(arr,object){
      var b = false;
         for(var i= 0; i<arr.length;i++){
           if( arr[i].skuId == object.skuId){
