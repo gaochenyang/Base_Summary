@@ -72,7 +72,7 @@ store[aa] ='123';
       }
     }
 
- ~ ~ //在数组中查找是否有这个对象
+ # //在数组中查找是否有这个对象
    function find(arr,object){
      var b = false;
         for(var i= 0; i<arr.length;i++){
