@@ -65,15 +65,14 @@ store[aa] ='123';
 
 
 # 对象数组去重 取最后一个对象
-
-` for(var i = 0;i<arr.length;i++){
+ for(var i = 0;i<arr.length;i++){
       if(!find(newArr,arr[i])){
         newArr.push(arr[i]);
       }
     }
-`
+
  //在数组中查找是否有这个对象
- `  function find(arr,object){
+  function find(arr,object){
      var b = false;
         for(var i= 0; i<arr.length;i++){
           if( arr[i].skuId == object.skuId){
@@ -84,4 +83,4 @@ store[aa] ='123';
       return b;
     }
 
-`
+
